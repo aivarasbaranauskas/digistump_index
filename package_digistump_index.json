@@ -1705,12 +1705,25 @@
             {
               "packager": "ATTinyCore",
               "name": "micronucleus",
-              "version": "2.5-azd1b"
+              "version": "2.6"
             }
           ]
         }
       ],
       "tools": [
+        {
+          "name": "micronucleus",
+          "version": "2.6",
+          "systems": [
+            {
+              "size": "261374",
+              "checksum": "SHA-256:96dbf48e786dac7236516347e06beb8c36c754443afdcba782084f203a7b67d8",
+              "host": "x86_64-mingw32",
+              "archiveFileName": "micronucleus-cli-master-882e7b4a-x86_64-MINGW64_NT-10.0-17763.zip"
+              "url": "https://github.com/micronucleus/micronucleus/releases/download/v2.6/micronucleus-cli-master-882e7b4a-x86_64-MINGW64_NT-10.0-17763.zip"
+            }
+          ]
+        },
         {
           "name": "micronucleus",
           "version": "2.5-azd1b",
